@@ -34,7 +34,7 @@ After all the users had been created, i needed to confirm that all users were cr
 
 ![alt text](./Images/Connection%20User%202.png)
 
-**Thank you so much**
+**Muchos Gracias**
 
 
 
