@@ -1,6 +1,6 @@
 # AuxProject1
 
-**Documentation for Aux Project 1**
+**Documentation for Aux Project One(1)**
 
 I started by creating a script which i would use in creation of my users for my project. This can be seen in the screenshot below
 
